@@ -7,7 +7,7 @@
 #define PIN_TX    9                 /* rx of Arduino (connect tx of gprs to this pin) */
 #define PIN_RX    10                 /* tx of Arduino (connect rx of gprs to this pin) */
 #define BAUDRATE  9600
-#define PHONE_NUMBER "9497485980"
+#define PHONE_NUMBER "9946458034"
 #define MESSAGE_LENGTH 160
 #define aerator_1 1
 #define aerator_2 2
