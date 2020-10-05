@@ -118,7 +118,7 @@ void loop()
             break;
           }
 
-           if(Status.sense_Current_aerator_1 <=450)
+           if(Status.sense_Current_aerator_1 <=461)
             {
               if(Status.aerator_status != aerator_1 )  
               {
